@@ -85,4 +85,10 @@ a:hover {
   .carousel {
     width: 100% !important;
   }
+  .footer-menu {
+    flex-direction: column;
+  }
+  .footer {
+    padding: 10%;
+  }
 }
